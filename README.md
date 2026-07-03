@@ -78,7 +78,6 @@ https://public.tableau.com/views/Heart_Disease_Analysis_Dashboard_17829211184720
 
 ### Story
 https://public.tableau.com/shared/G8XNQN7T2
----
 
 ## 📁 Repository Structure
 
